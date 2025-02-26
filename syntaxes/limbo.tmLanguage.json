@@ -13,7 +13,7 @@
 		"keywords": {
 			"patterns": [{
 				"name": "keyword.control.limbo",
-				"match": "\\b(if|while|for|return)\\b"
+				"match": "\\b(adt|alt|array|big|break|byte|case|chan|con|continue|cyclic|do|else|exit|fn|for|hd|if|implement|import|include|int|len|list|load|module|nil|of|or|pick|real|ref|return|self|spawn|string|tagof|tl|to|type|while)\\b"
 			}]
 		},
 		"strings": {
